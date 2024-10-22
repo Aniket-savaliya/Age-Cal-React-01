@@ -1,0 +1,16 @@
+.conatiner_middle
+{
+    display: flex;
+    justify-content: center;
+}
+
+.left{
+    width: 500px;
+    background-color: #eef1f6;
+}
+
+.conatiner_middle_para{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
